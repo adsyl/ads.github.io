@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2023/11/01/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>有用</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>avrt</title>
+    <url>/2023/11/02/avrt/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>第一篇文章</title>
+    <url>/2023/11/01/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<p>这是我的第一篇文章，没有太多文字，一个新的尝试而已！</p>
+]]></content>
+      <categories>
+        <category>有戏</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>pgt</title>
+    <url>/2023/11/02/pgt/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>试管婴儿技术鉴别指南</title>
+    <url>/2023/11/02/%E8%AF%95%E7%AE%A1%E5%A9%B4%E5%84%BF%E6%8A%80%E6%9C%AF%E9%89%B4%E5%88%AB%E6%8C%87%E5%8D%97/</url>
+    <content><![CDATA[<p>欢迎来到“爱得生的生殖科普空间”，我们将在这里分享全面的试管婴儿相关知识，祝您好“孕”！</p>
+<h3 id="IVF-ET"><a href="#IVF-ET" class="headerlink" title="IVF-ET"></a>IVF-ET</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">全称“体外受精-胚胎移植”，多指第一代试管婴儿技术</span><br></pre></td></tr></table></figure>
+<p>指采用人工方法让卵细胞和精子在体外受精，并进行早期胚胎发育，然后移植到母体子宫内发育。<br>这项技术是之后第二代和第三代技术的基础，之后的第二代和第三代技术是在此基础上附加额外的医学操作，以提升可获得胚胎的数量和质量。<br>“确实获得胚胎”和“使胚胎确实进入宫腔”是IVF-ET的两项重要医学功能。<br>自2010年起，也就是IVF-ET技术获得诺贝尔奖的那年起，意味着全球医学界已经完全认同了这项技术的有效性和安全性</p>
+<p>More info: <a href="https://baike.baidu.com/item/%E8%AF%95%E7%AE%A1%E5%A9%B4%E5%84%BF/193540?fromtitle=IVF-ET&fromid=308481&fr=aladdin">IVF-ET</a></p>
+<h3 id="ICSI"><a href="#ICSI" class="headerlink" title="ICSI"></a>ICSI</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">全称“单精子显微注射”，多指第二代试管婴儿技术</span><br></pre></td></tr></table></figure>
+<p>这项技术的目的是解决因精子运动能力低、精子输送障碍、因顶体酶异常而无法使卵子受精，以及不明原因的卵子受精率低等问题。<br>ICSI的主要医学功能是：<br>1）获得可能更多的胚胎<br>2）避免多精受精<br>3）避免对PGT产生干扰。</p>
+<p>More info: <a href="https://baike.baidu.com/item/%E7%AC%AC%E4%BA%8C%E4%BB%A3%E8%AF%95%E7%AE%A1%E5%A9%B4%E5%84%BF/8536658?fromtitle=ICSI&fromid=309489&fr=aladdin">ICSI</a></p>
+<h3 id="PGT"><a href="#PGT" class="headerlink" title="PGT"></a>PGT</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">全称“胚胎植入前遗传学检测”，多指第三代试管婴儿技术</span><br></pre></td></tr></table></figure>
+<p>PGT的意义是“避免必然会导致妊娠丢失或不良的胚胎移植”<br>PGT可根据其检测目的不同，继续细分为PGT-A、PGT-M和PGT-SR</p>
+<h4 id="PGT-A"><a href="#PGT-A" class="headerlink" title="PGT-A"></a>PGT-A</h4><p>PGT-A的检测目标是胚胎染色体的非整倍体和CNVs。<br>PGT-A是PGT中适用性最广的一种，其根本目的是避免自然妊娠中胎儿因染色体异常而引产时对孕妇所造成的风险。</p>
+<h4 id="PGT-M"><a href="#PGT-M" class="headerlink" title="PGT-M"></a>PGT-M</h4><p>PGT-M的检测目标不是胚胎的染色体，而是染色体中位于DNA上的某些分子——碱基。更通俗地说，其检测目标是胚胎的基因。PGT-M是对“胚胎是否也遗传了可致病的突变基因”而进行检测，因为是对单基因病的靶向性检测，因此无法检测非遗传的新发基因突变。PGT-M的根本目的是阻断单基因病的遗传和发生，以及避免自然妊娠中胎儿因单基因病而引产时对孕妇所造成的风险。<br>PGT-M的适用范围很小，只适用于：<br>有“先证者”和“基因检测”证明夫妻双方携带的突变基因会对子代造成致病风险。</p>
+<h4 id="PGT-SR"><a href="#PGT-SR" class="headerlink" title="PGT-SR"></a>PGT-SR</h4><p>PGT-SR的检测目标同样是DNA上的某些碱基。PGT-SR以先证者为基础，对“胚胎是否也遗传了结构异常”而进行检测。PGT-SR是PGT中对染色体结构异常的靶向性检测，因此无法检测非遗传的新发染色体结构异常。PGT-SR的根本目的是阻断结构异常的遗传，从而避免子代因该结构异常而面临的生育或健康风险。<br>PGT-SR的适用范围更小，只适用于：<br>亲代染色体存在结构异常，且该异常会使子代染色体发生非整倍体或CNV的比例提高。<br>值得注意的是，由于绝大部分染色体结构异常并不会对携带者造成健康影响，因此采用PGT-A也是适合的，而PGT-SR往往是一个可选项。</p>
+<p>More info: <a href="https://baike.baidu.com/item/%E7%AC%AC%E4%B8%89%E4%BB%A3%E8%AF%95%E7%AE%A1%E5%A9%B4%E5%84%BF?fromModule=lemma_search-box">PGT</a></p>
+<p><img src="/uploads/custom-logo.png" alt="PGT"><br><img src="https://www.hbtcm.edu.cn/8DBB8E2556B24861B087D05BC9D_4335C933_39C47.jpg" alt="玖涯"></p>
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>wo de</title>
+    <url>/2023/11/02/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<p>目前的物理活动范围主要在美帝纽约与硅谷，也想当个数字游民侠。虚拟分身日常出没于微博、知乎、B站、Instagram、推特、Github 等。</p>
+]]></content>
+      <categories>
+        <category>游侠</category>
+      </categories>
+  </entry>
+</search>
