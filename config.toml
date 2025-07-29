@@ -1,6 +1,6 @@
 title = "ads"
 #baseURL = "https://gohugo-theme-ananke.pages.dev"
-baseURL = "https://github.com/adsyl/ads.github.io"
+baseURL = "https://adsyl.github.io/ads.github.io/"
 languageCode = "zh-cn"
 theme = 'ananke'
 publishDir = "docs"
