@@ -3,6 +3,7 @@ title = "ads"
 baseURL = "https://github.com/adsyl/ads.github.io"
 languageCode = "zh-cn"
 theme = 'ananke'
+publishDir = "docs"
 resourceDir = "../resources"
 
 DefaultContentLanguage = "zh"
@@ -10,7 +11,6 @@ SectionPagesMenu = "main"
 pagination.pagerSize = 6           
 googleAnalytics = ""
 enableRobotsTXT = true
-publishDir = "docs"
 
 [languages]
 [languages.zh]
