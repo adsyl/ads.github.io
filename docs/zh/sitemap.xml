@@ -47,7 +47,7 @@
                 />
   </url><url>
     <loc>https://adsyl.github.io/ads.github.io/service/</loc>
-    <lastmod>2023-11-06T21:26:22+00:00</lastmod>
+    <lastmod>2025-07-27T10:58:08-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link
@@ -76,27 +76,16 @@
                 href="https://adsyl.github.io/ads.github.io/news/"
                 />
   </url><url>
-    <loc>https://adsyl.github.io/ads.github.io/contact/</loc>
-    <lastmod>2025-07-27T10:58:08-04:00</lastmod>
+    <loc>https://adsyl.github.io/ads.github.io/about/contact/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://adsyl.github.io/ads.github.io/en/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://adsyl.github.io/ads.github.io/contact/"
-                />
   </url><url>
     <loc>https://adsyl.github.io/ads.github.io/tags/scene/</loc>
     <lastmod>2025-07-27T10:58:08-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://adsyl.github.io/ads.github.io/contact/cha/</loc>
+    <loc>https://adsyl.github.io/ads.github.io/service/cha/</loc>
     <lastmod>2025-07-27T10:58:08-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>

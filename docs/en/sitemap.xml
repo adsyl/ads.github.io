@@ -64,16 +64,6 @@
     <loc>https://adsyl.github.io/ads.github.io/en/contact/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://adsyl.github.io/ads.github.io/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://adsyl.github.io/ads.github.io/en/contact/"
-                />
   </url><url>
     <loc>https://adsyl.github.io/ads.github.io/en/</loc>
     <lastmod>2023-10-26T10:10:00+08:00</lastmod>
